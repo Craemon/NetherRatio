@@ -1,6 +1,7 @@
 # NetherRatio
 
 **Moved to:** https://github.com/Craemon/Datapacks
+
 This datapack changes the conversion ratio (Overworld <> Nether) from the default(8:1) to a ratio of 2:1.
 
 It also introduces an adjusted coordinate calculator for that ratio(original is made by vanilla tweaks)
